@@ -1,3 +1,14 @@
+<div align="center">
+  <p>
+    <a href="https://github.com/frfernando/frfernando"><b>⬅️ Início</b></a> &nbsp;•&nbsp;
+    <a href="https://github.com/frfernando/frfernando/blob/main/SOBRE_MIM.md"><b>👤 Sobre Mim</b></a> &nbsp;•&nbsp;
+    <a href="https://github.com/frfernando/frfernando/blob/main/PORTFOLIO.md"><b>💼 Portfólio</b></a> &nbsp;•&nbsp;
+    <a href="https://github.com/frfernando/frfernando/blob/main/CERTIFICADOS.md"><b>📜 Certificados</b></a>
+  </p>
+</div>
+
+<br />
+
 <h1>Certificados</h1>
 <p>Acervo de Fernando Reis. O link de cada linha abre o comprovante: o arquivo neste repositório, ou o endereço do emissor quando o documento fica fora do Git.</p>
 
@@ -82,3 +93,11 @@
     </tr>
   </tbody>
 </table>
+
+<br />
+
+<div align="center">
+  <p>
+    <a href="https://github.com/frfernando/frfernando"><b>⬅️ Voltar ao README</b></a>
+  </p>
+</div>
