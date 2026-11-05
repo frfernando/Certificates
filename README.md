@@ -33,9 +33,57 @@
       <td>Arquivo ainda não está neste repositório.</td>
     </tr>
     <tr>
+      <td><b>Web Design</b></td>
+      <td>SOS Formação Profissional</td>
+      <td><code>200 horas</code></td>
+      <td>Arquivo ainda não está neste repositório.</td>
+    </tr>
+    <tr>
+      <td><b>UI Design: mergulhando nas interfaces digitais</b></td>
+      <td>Alura</td>
+      <td></td>
+      <td>Arquivo ainda não está neste repositório.</td>
+    </tr>
+    <tr>
+      <td><b>Figma: construindo o layout do seu site mobile</b></td>
+      <td>Alura</td>
+      <td></td>
+      <td>Arquivo ainda não está neste repositório.</td>
+    </tr>
+    <tr>
+      <td><b>WordPress: crie sites com Elementor e Figma</b></td>
+      <td>Alura</td>
+      <td></td>
+      <td>Arquivo ainda não está neste repositório.</td>
+    </tr>
+    <tr>
+      <td><b>WordPress: integrando responsividade, efeitos visuais e explorando plugins</b></td>
+      <td>Alura</td>
+      <td></td>
+      <td>Arquivo ainda não está neste repositório.</td>
+    </tr>
+    <tr>
+      <td><b>Canva: criando um currículo personalizado</b></td>
+      <td>Canva</td>
+      <td></td>
+      <td>Arquivo ainda não está neste repositório.</td>
+    </tr>
+    <tr>
       <td><b>Marketing Digital e Performance</b></td>
       <td>Alura</td>
       <td><code>79 horas</code></td>
+      <td>Arquivo ainda não está neste repositório.</td>
+    </tr>
+    <tr>
+      <td><b>Google Ads</b></td>
+      <td>Google</td>
+      <td><code>50 horas</code></td>
+      <td>Arquivo ainda não está neste repositório.</td>
+    </tr>
+    <tr>
+      <td><b>Facebook (Meta) Ads</b></td>
+      <td>Meta</td>
+      <td><code>42 horas</code></td>
       <td>Arquivo ainda não está neste repositório.</td>
     </tr>
     <tr>
@@ -84,6 +132,12 @@
       <td>Etec Prof. Dr. Antônio Eufrásio de Toledo · Centro Paula Souza</td>
       <td>2003 a 2006</td>
       <td><a href="./comprovantes/tecnico-etec-centro-paula-souza.jpeg"><b>Certificado</b></a></td>
+    </tr>
+    <tr>
+      <td><b>Técnico em Florestal</b></td>
+      <td>Etec Prof. Dr. Antônio Eufrásio de Toledo · Centro Paula Souza</td>
+      <td>2003 a 2006</td>
+      <td>Arquivo ainda não está neste repositório.</td>
     </tr>
     <tr>
       <td><b>Ensino Médio Técnico Integrado</b></td>
